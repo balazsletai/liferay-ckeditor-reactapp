@@ -2,7 +2,7 @@
 
 Liferay Ckeditor Reactapp
 
-You can now run the following commands to build your project:
+You can run the following commands to build your project:
 
     $ cd liferay-ckeditor-reactapp ↩
     $ npm install ↩ 
